@@ -1,6 +1,6 @@
 **#Unit 4 Assignment:**
 
-*A Whale off the Port(Folio) - Anaylsis and answers to assignment questions
+*A Whale off the Port(Folio) - Anaylsis and answers to assignment questions*
 
 -This script will evaluate performance and risk amongst various algorithmic, hedge, and mutual fund portfolios and compare them against the S&P 500 Index.
 
