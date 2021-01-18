@@ -1,4 +1,4 @@
-**#Unit 4 Assignment: 
+**#Unit 4 Assignment:**
 
 *A Whale off the Port(Folio) - Anaylsis and answers to assignment questions
 
@@ -12,7 +12,7 @@
 -Finally, looking at the Sharpe Ratio calculations and bar plots illustrates that the Algorithmic portfolio does in fact outperform the Whale portfolio and the S&P 500 Index.
 
 
-*Rena's Custom Stock Portfolio (GOOG, FB, TSLA)
+*Rena's Custom Stock Portfolio (GOOG, FB, TSLA)*
 
 -The chosen stocks for my portfolio include GOOG, FB and TSLA for the period of Jan 1 2019 to Jan 1 2020.
 
